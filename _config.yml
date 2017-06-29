@@ -5,12 +5,14 @@ description: A fun and progressive redux designed by and for the players at larg
 defaults:
     post_pages:
         scope:
-          path: "/posts/"
+          path: "posts"
+          type: "pages"
         values:
-          layout: default
+          layout: "default"
           comments: true
     regular_pages:
         scope:
-          path: pages
+          path: "pages"
+          type: "pages"
         values:
           layout: "default"
