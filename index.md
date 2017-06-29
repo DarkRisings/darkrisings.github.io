@@ -20,8 +20,7 @@ If you have an idea, complaint, request or just want to talk about some aspect o
 
 There is a secondary Dark Risings now in production at 174.138.76.27:1313. It is complete with all areas, code, player files, histories and a full staff including Admin/Imp/Coder/RP. There are about 9 of us. 9 players on an already thinning player base that were driven away.
 
-**OUR OPENING STATEMENT**
-
+**OUR OPENING STATEMENT**  
 The existing staff of DR does, we are sure, mean well. However, we find ourselves at a place where many of us are banned from the game, due to transgressions as old as 3 years. Others of us have had the stories we worked so hard to build, in some cases for over a decade, torn away from us. Still others have had our characters stripped of dignity and thrown out of guilds we patroned for literal decades. The rest were repulsed by downright puerile acts of power grabbing.  Our opinions and contributions didn’t matter, our characters didn’t fit someone else’s vision, and it was made clear to us that we had no home at DR anymore.
 
 And we're told we can't ever have it back. We're either told we're not welcome to play their game anymore, or we feel that it isn't the same, and doesn't satisfy the nostalgia that kept us coming back for so many years. And they are unwilling to work with us or negotiate at all in any way that’s significant.
