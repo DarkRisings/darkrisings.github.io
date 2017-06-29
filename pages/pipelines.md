@@ -12,9 +12,6 @@ Discussion on specific pipelines is both enabled and encouraged. Feel free to le
 
 # Active Pipelines
 
-
-
-Pending | In Progress | Under Review | Denied | Approved
-:hourglass: | :pencil2: | :mag_right: | :exclamation: | :green_heart:
+ Being Outlined | Player Run Guild System | [View](/pipelines/guilds)
 
 
