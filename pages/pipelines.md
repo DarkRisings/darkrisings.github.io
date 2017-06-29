@@ -9,3 +9,7 @@ Pipelines are essentially coding outlines for new projects. The coding work flow
 This is where I will map out the system visually before coding it. It allows me to have a guideline to follow, and makes sure everyone is on the same page. Before a project enters the development stage, the pipeline outline must be approved by the majority.
 
 Discussion on specific pipelines is both enabled and encouraged. Feel free to leave comments.
+
+# Active Pipelines
+
+Player Run Guild System | [View](/pipelines/guilds)
