@@ -28,7 +28,8 @@
       {{ content }}
         
       <br>
-      {% if page.comments %}
+
+      <% if (page.path.indexOf('pipelines')) { %>
         <div id="disqus_thread"></div>
         <script>
           (function() { // DON'T EDIT BELOW THIS LINE
