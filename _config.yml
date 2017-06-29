@@ -5,7 +5,7 @@ description: A fun and progressive redux designed by and for the players at larg
 defaults:
     post_pages:
         scope:
-          path: posts
+          path: "/posts/"
         values:
           layout: default
           comments: true
