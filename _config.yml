@@ -3,17 +3,17 @@ title: Dark Risings
 description: A fun and progressive redux designed by and for the players at large
 
 defaults:
-post_pages:
-    scope:
-      path: "posts"
-      type: "pages"
-    values:
-      layout: "default"
-      comments: true
-regular_pages:
-    scope:
-      path: "pages"
-      type: "pages"
-    values:
-      layout: "default"
-      comments: false
+    post_pages:
+        scope:
+          path: "posts"
+          type: "pages"
+        values:
+          layout: "default"
+          comments: true
+    regular_pages:
+        scope:
+          path: "pages"
+          type: "pages"
+        values:
+          layout: "default"
+          comments: false
